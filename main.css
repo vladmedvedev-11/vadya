@@ -1,0 +1,35 @@
+body{
+  padding: 0;
+  margin: 0;
+  font-family: Tahoma. serif;
+} 
+header, footer{
+  background: grey;
+  padding: 50px 0;  
+} 
+h1{
+    text-align:  center;
+    color:  white;
+      font-size: 50px
+} 
+div{
+width: 1400px;
+margin: 0 auto;
+overflow: hidden; 
+} 
+aside, main, table{
+  width: 50%;
+  float: left;
+} 
+aside img {
+display: block;
+width: 90%;
+margin: 0 auto;
+} 
+footer p {
+  color: white;
+  text-align: center;
+}  
+main{
+ text-align: center;
+} 
